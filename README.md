@@ -1,2 +1,2 @@
-# kymkyj.github.io
-github webPortfolio
+# 웹 포트폴리오
+https://kymkyj.github.io/index.html
